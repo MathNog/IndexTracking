@@ -1,4 +1,4 @@
-# IndexTracking
+# ENG1585 Final Project - Index Tracking with Sparse Portfolio
 
 ## Group:
 
